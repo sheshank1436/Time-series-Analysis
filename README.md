@@ -4,3 +4,4 @@ check for adfuller test.
 https://stackoverflow.com/questions/47349422/how-to-interpret-adfuller-test-results
 how to get back original values
 https://stackoverflow.com/questions/60247685/converting-back-prediction-values-to-original-scaleforecasting-with-python-arim
+https://machinelearningmastery.com/make-sample-forecasts-arima-python/
